@@ -45,4 +45,4 @@ A simple command-line based Student Record Management System written in Python u
 
 ```bash
 
-Python Student_Record_Management.py
+python Student_Record_Management.py
